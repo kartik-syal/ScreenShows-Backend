@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+table {
+  table-layout: fixed;
+  word-wrap: break-word;
+}
+
+.desc{
+  width: 200px;
+}
+
+.action{
+  width: 160px;
+}
+
+.title{
+  width: 120px;
+}
+
+.images{
+  height: 140px;
+  width: 90px;
+}
